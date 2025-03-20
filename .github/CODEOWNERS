@@ -1,1 +1,3 @@
-draft-ietf-oauth-selective-disclosure-jwt.md @bc-pi @danielfett @sakurann
+# Automatically generated CODEOWNERS
+# Regenerate with `make update-codeowners`
+draft-ietf-oauth-selective-disclosure-jwt.md mail@danielfett.de kristina@sfc.keio.ac.jp bcampbell@pingidentity.com
